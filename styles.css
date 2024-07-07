@@ -1,24 +1,37 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
 h1 {
   font-size: 96px;
 }
-.personal h2 {
+p {
+  font-weight: normal;
+}
+.hero h2 {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-size: 28px;
   line-height: 2;
 }
-.personal {
+.hero {
   background-color: #f9f7fe;
   text-align: center;
   padding: 160px 20px;
 }
 
-.personal p {
+.hero p {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
 }
-a {
+.btn-branding {
   background-color: #6c63ff;
   border-radius: 4px;
   color: white;

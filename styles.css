@@ -1,3 +1,28 @@
-p {
+h1 {
+  font-size: 96px;
+}
+.personal h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 2;
+}
+.personal {
+  background-color: #f9f7fe;
+  text-align: center;
+  padding: 160px 20px;
+}
+
+.personal p {
+  font-size: 36px;
   font-weight: bold;
+  margin: 0;
+}
+a {
+  background-color: #6c63ff;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
 }
